@@ -1,2 +1,9 @@
-Python Backend Roadmap
-This repository contains my tasks, mini-projects, and practics on Python on the road to my first work as Python Backend Developer
+This repository contains:
+
+- Python exercises;
+- problem solutions;
+- mini-projects;
+- backend projects;
+- materials studied while preparing for a first job as a Python Backend Developer.
+
+Training started: July 2026.
